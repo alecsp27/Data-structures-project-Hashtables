@@ -25,7 +25,7 @@ TH* IniTH(size_t M, TFHash fh)
     return h;
 }
 
-//this function generates the hashcode and calls de list insertion function
+//this function generates the hashcode and calls the list insertion function
 
 int InsTH(TH*a, void* ae)
 {
